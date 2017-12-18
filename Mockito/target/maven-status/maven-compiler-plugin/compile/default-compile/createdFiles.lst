@@ -1,0 +1,4 @@
+com/bridgeit/service/UserServiceImpl.class
+com/bridgeit/controller/UserController.class
+com/bridgeit/service/UserService.class
+com/bridgeit/model/UserBean.class
